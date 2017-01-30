@@ -1,0 +1,11 @@
+											EASY READER
+
+
+Through this App user can click Photo of any resources (not handwritten) and all the words present in the document will be parsed through tesseract library for OCR.
+After all words have bann parsed then anaother activity will be started which will show all difficult words with their meaning .
+User can add words to fav list and remove them from fab list.
+user can go to fav list from Main Activity and Word Meaning Activity.
+From Fav list user can also fav and unfav word.
+This app can be Boon to all those who read novels and newspaper in order to improve their vocabulary.
+User no longer have to waste time in writing word in notebook and looking for their meaning in dictionary, all they have to do is just click photo and everything is done :) .
+This app will be an end to Cue Card. 
